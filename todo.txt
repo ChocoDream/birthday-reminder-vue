@@ -1,0 +1,6 @@
+Implement Light Global State manager (without vuex because too tiny of a project)
+Instead use Vue reactive: https://www.reddit.com/r/vuejs/comments/jlxozm/vuex_alternatives_for_vue3/
+
+Complete this tutorial and convert to Vue: https://code-boxx.com/simple-pure-javascript-calendar-events/
+
+Implement Add date with name and save/load. Maybe autosave. 
